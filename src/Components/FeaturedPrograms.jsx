@@ -1,34 +1,3 @@
-// // src/components/FeaturedPrograms.jsx
-// import React from 'react';
-
-// const FeaturedPrograms = () => {
-//   return (
-//     <section id="programs" className="py-16 px-6 bg-gray-100">
-//       <div className="max-w-7xl mx-auto text-center">
-//         <h3 className="text-3xl font-extrabold text-blue-600">Featured Programs</h3>
-//         <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-//           <div className="bg-white p-6 rounded-lg shadow-lg hover:scale-105 transform transition duration-300">
-//             <img src="https://assets-global.website-files.com/56b2d0222988c4230fc7de41/622be8b56e8d793e980a5dcd_conner-baker-7FC-84Ap_IU-unsplash.jpg" alt="Program 1" className="w-full h-48 object-cover rounded-md" />
-//             <h4 className="text-xl font-semibold mt-4">Program 1</h4>
-//             <p className="mt-2">This program helps students develop essential skills for success.</p>
-//           </div>
-//           <div className="bg-white p-6 rounded-lg shadow-lg hover:scale-105 transform transition duration-300">
-//             <img src="http://easypd.in/wp-content/uploads/2020/08/5-1.jpg" alt="Program 2" className="w-full h-48 object-cover rounded-md" />
-//             <h4 className="text-xl font-semibold mt-4">Program 2</h4>
-//             <p className="mt-2">An exciting program focused on innovation and technology.</p>
-//           </div>
-//           <div className="bg-white p-6 rounded-lg shadow-lg hover:scale-105 transform transition duration-300">
-//             <img src="https://tse3.mm.bing.net/th?id=OIP.8HZ0VNSYzcchqdEIiqJWYAAAAA&pid=Api&P=0&h=220" alt="Program 3" className="w-full h-48 object-cover rounded-md" />
-//             <h4 className="text-xl font-semibold mt-4">Program 3</h4>
-//             <p className="mt-2">A comprehensive program designed to enhance leadership skills.</p>
-//           </div>
-//         </div>
-//       </div>
-//     </section>
-//   );
-// };
-
-// export default FeaturedPrograms;
 import React from "react";
 
 const programs = [
